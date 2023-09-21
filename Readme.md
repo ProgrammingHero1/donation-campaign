@@ -10,6 +10,3 @@ Click here for the private repo: [https://classroom.github.com/a/8TQS2mML](it wi
 Add Readme.md file and will have the following: 
 
 - Add at least 3 Project features 
-
-
-- Discuss how you managed the state in your assignment project.
