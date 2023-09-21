@@ -1,4 +1,4 @@
-# Course-Registration
+# donation-campaign
 
 ## [ Private Repo Link](https://classroom.github.com/a/8TQS2mML)
 
