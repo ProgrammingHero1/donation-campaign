@@ -1,8 +1,8 @@
 # donation-campaign
 
-## [ Private Repo Link](https://classroom.github.com/a/8TQS2mML)
+## Private Repo Link
 
-Click here for the private repo: [it will be updated](it will be updated)
+[Click here for the private repo](https://classroom.github.com/a/ymFUnXH9)
 
 
 
