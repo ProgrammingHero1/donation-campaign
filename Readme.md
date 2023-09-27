@@ -1,12 +1,4 @@
-# donation-campaign
-
-## Private Repo Link
-
-[Click here for the private repo](https://classroom.github.com/a/ymFUnXH9)
-
-
-
-##  Questions
-Add Readme.md file and will have the following: 
-
-- Add at least 3 Project features 
+- Add at least 3 Project features
+1.you have manny donate.
+2.you can donate some place.
+3.you see donate in chart
